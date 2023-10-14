@@ -4,7 +4,7 @@
   "description": "Este es un consumo de Api rest para modificar https",
   "main": "index.html",
   "scripts": {
-    "deploy": "run deploy",
+    "deploy": "gh-pages",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
